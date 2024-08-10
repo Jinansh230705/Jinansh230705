@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">:octocat: Hi there 👋 I am Jinansh Mehta</h1>
-//<h3 align="center">Computer Science Student at Parul University</h3>
+/*<h3 align="center">Computer Science Student at Parul University</h3>*/;
+
 
 - 🌱 I’m currently learning **C and Java**
 
