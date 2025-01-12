@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ee1ddfb5-f178-4bac-b5ca-65c380086441" alt="Banner" height="480" width="720"/></p>
+<img src="https://github.com/user-attachments/assets/ee1ddfb5-f178-4bac-b5ca-65c380086441" alt="Banner"/></p>
 <h1 align="center">Hi there 👋 I am Jinansh Mehta</h1>
 <h3 align="center">A Computer Science Student at Parul University</h3>
 
@@ -47,5 +47,19 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/"><img src="https://github.com/user-attachments/assets/4c512984-33e4-48af-a9d2-33e2aaf5f32a" alt="Git" height="40" width="40"/></a>
   <a href="https://figma.com"><img src="https://github.com/user-attachments/assets/c6f01b0b-0ad0-4de2-90d5-c04c8ca08ab6" alt="Figma" height="40" width="40"/></a>
   <a href="https://www.linux.org/"><img src="https://github.com/user-attachments/assets/44cffd02-e3b8-4165-8a65-b81f77b7c3b7" alt="Linux" height="40" width="40"/></a>
-  <a href="https://www.android.com/intl/en_in/"><img src="https://github.com/user-attachments/assets/bdd98c68-ec66-4d2d-a2d4-295024e880e4" alt="Android" height="40" width="70"/></a></p>
+  <a href="https://www.android.com/intl/en_in/"><img src="https://github.com/user-attachments/assets/bdd98c68-ec66-4d2d-a2d4-295024e880e4" alt="Android" height="40" width="70"/></a>
+  <a href="https://developer.android.com/studio"><img src="https://github.com/user-attachments/assets/5a9a9619-8b15-4eaf-b05e-d89bd85e441d" alt="Android Studio" height="40" width="41"/></a>
+</p>
+
+<a href="https://www.netacad.com/cisco-packet-tracer"><img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" height="40" width="40"/></a>
+<a href="https://www.wireshark.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="Wireshark" height="40" width="40"/></a>
+ <a href="https://desktop.github.com/download/"><img src="https://github.com/user-attachments/assets/0c3b5d3b-27b7-4cfa-9e91-80a9b8d6bc0c" alt="Github Desktop" height="40" width="40"/></a>
+
+<h3 align="left">My Projects :</h3>
+ <p align="left">
+ <a href="https://github.com/Materioa/"><img src="https://github.com/user-attachments/assets/62f823f8-1fc9-43b2-a13b-96214af0d90f" alt="Materio" height="40" width="150"/></a>
+ </p>
+ 
+  
+
 
