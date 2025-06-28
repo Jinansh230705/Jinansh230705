@@ -1,3 +1,4 @@
+
 <!--
 **Jinansh230705/Jinansh230705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,7 +58,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">My Projects :</h3>
  <p align="left">
- <a href="https://github.com/Materioa/"><img src="https://github.com/user-attachments/assets/62f823f8-1fc9-43b2-a13b-96214af0d90f" alt="Materio" height="40" width="150"/></a>
+ <a href="https://github.com/Materioa/"><img src="https://github.com/user-attachments/assets/57750651-bd64-4c29-b535-ee532a0b953f" alt="Materio" height="40" width="178"/></a>
  </p>
  
   
