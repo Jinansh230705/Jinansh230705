@@ -58,9 +58,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">My Projects :</h3>
  <p align="left">
- <a href="https://github.com/Materioa/"><img src="https://github.com/user-attachments/assets/57750651-bd64-4c29-b535-ee532a0b953f" alt="Materio" height="40" width="178"/></a>
+ <a href="https://github.com/Materioa/"> <img width="178" height="45" alt="sticker" src="https://github.com/user-attachments/assets/f0dd62b2-d25e-4b03-b3e0-ffffe3e828e2" /></a>
  </p>
- 
+
+
   
 
 
